@@ -2,7 +2,7 @@ Beginner Projects:
 
 Mad Libs Generator
 Number Guessing
-Rock, Paper, Scissors
+Rock, Paper, Scissors - https://realpython.com/python-rock-paper-scissors/
 Text-Based Adventure Game
 Dice Rolling Simulator
 Hangman
