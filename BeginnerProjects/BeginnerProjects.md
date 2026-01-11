@@ -4,7 +4,7 @@ Projects
 - [x] Tetris
 - [x] Tic Tac Toe
 - [ ] Rock, Paper, Scissors - https://realpython.com/python-rock-paper-scissors/
-- [ ] Hangman
+- [x] Hangman
 - [ ] 
 
 Others:
