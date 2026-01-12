@@ -3,7 +3,7 @@ Projects
 - [x] Number Guessing
 - [x] Tetris
 - [x] Tic Tac Toe
-- [ ] Rock, Paper, Scissors - https://realpython.com/python-rock-paper-scissors/
+- [x] Rock, Paper, Scissors - https://realpython.com/python-rock-paper-scissors/
 - [x] Hangman
 - [ ] 
 
