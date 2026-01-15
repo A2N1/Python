@@ -1,5 +1,5 @@
 Projects
-- [ ] Calculator
+- [x] Calculator
 - [x] Number Guessing
 - [x] Tetris
 - [x] Tic Tac Toe
