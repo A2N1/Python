@@ -4,5 +4,6 @@ Pyhton Projects
 - Spotify Playlists
 - YouTube to Spotify
 - small projects
+- find ideas
 
 https://www.datacamp.com/de/blog/60-python-projects-for-all-levels-expertise
