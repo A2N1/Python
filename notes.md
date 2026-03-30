@@ -15,3 +15,4 @@ Cool projects in my opinion
 - Scraping weather data to get umbrella reminder on email
 - Simple registration form
 - Automatic Birthday mail sending
+- Automate backup
