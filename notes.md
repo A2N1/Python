@@ -12,3 +12,4 @@ https://www.geeksforgeeks.org/python/python-projects-beginner-to-advanced/
 
 Cool projects in my opinion
 - Hotel Management System
+- Scraping weather data to get umbrella reminder on email
