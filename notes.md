@@ -18,3 +18,4 @@ Cool projects in my opinion
 - Automate backup
 
 1. Find interesting project
+2. Work on
