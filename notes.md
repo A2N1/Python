@@ -16,3 +16,5 @@ Cool projects in my opinion
 - Simple registration form
 - Automatic Birthday mail sending
 - Automate backup
+
+1. Find interesting project
