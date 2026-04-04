@@ -23,3 +23,4 @@ Cool projects in my opinion
 
 - aus YouTube filtern?
 - Letterboxd?
+- welche skripte könnten mir helfen?
