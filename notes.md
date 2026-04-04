@@ -20,3 +20,5 @@ Cool projects in my opinion
 1. Find interesting project
 2. Work on
 3. Put it on GitHub
+
+- aus YouTube filtern?
