@@ -25,4 +25,4 @@ Cool projects in my opinion
 - Letterboxd?
 - welche skripte könnten mir helfen?
 - Was bringt mich weiter?
-- 
+- Sinnvolles mit einbringen
