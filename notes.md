@@ -26,3 +26,5 @@ Cool projects in my opinion
 - welche skripte könnten mir helfen?
 - Was bringt mich weiter?
 - Sinnvolles mit einbringen
+
+- random song playlist
