@@ -31,3 +31,4 @@ Cool projects in my opinion
   - mehrere oder nur eine?
 
 - Motivationsschub Skript
+- Tägliche Ziele automatiesieren als Programm?
