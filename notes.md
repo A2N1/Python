@@ -28,3 +28,4 @@ Cool projects in my opinion
 - Sinnvolles mit einbringen
 
 - random song playlist
+  - mehrere oder nur eine?
