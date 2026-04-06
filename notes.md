@@ -29,3 +29,5 @@ Cool projects in my opinion
 
 - random song playlist
   - mehrere oder nur eine?
+
+- Motivationsschub Skript
