@@ -32,3 +32,4 @@ Cool projects in my opinion
 
 - Motivationsschub Skript
 - Tägliche Ziele automatiesieren als Programm?
+  - schneller, präziser, Routine
