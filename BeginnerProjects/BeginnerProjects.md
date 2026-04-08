@@ -5,6 +5,7 @@ Projects
 - [x] Tic Tac Toe
 - [x] Rock, Paper, Scissors - https://realpython.com/python-rock-paper-scissors/
 - [x] Hangman
+- [x] Blackjack
 - [ ] 
 
 Others:
