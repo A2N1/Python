@@ -29,3 +29,5 @@ Create a Simple Chatbot with Python
 Automatic Excel Operations
 - Blog (python and Django)
 - Stock Portfolio Tracker
+
+- welche nächsten Projekte?
