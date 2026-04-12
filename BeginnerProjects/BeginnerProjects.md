@@ -13,6 +13,7 @@ Projects
 - [x] Memory
 - [x] Breakout
 - [x] FlappyBird
+- [x] Space Invaders
 - [ ] 
 
 Others:
