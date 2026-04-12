@@ -12,6 +12,7 @@ Projects
 - [x] ZombieSurvival
 - [x] Memory
 - [x] Breakout
+- [x] FlappyBird
 - [ ] 
 
 Others:
