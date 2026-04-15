@@ -14,6 +14,7 @@ Projects
 - [x] Breakout
 - [x] FlappyBird
 - [x] Space Invaders
+- [x] Snake
 - [ ] 
 
 Others:
