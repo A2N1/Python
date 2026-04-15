@@ -16,6 +16,8 @@ Projects
 - [x] Space Invaders
 - [x] Snake
 - [x] Mastermind
+- [x] SlidingPuzzle
+- [x] Mastermind
 - [ ] 
 
 Others:
