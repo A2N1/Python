@@ -18,6 +18,7 @@ Projects
 - [x] Mastermind
 - [x] SlidingPuzzle
 - [x] Mastermind
+- [x] MiniRPG
 - [ ] 
 
 Others:
