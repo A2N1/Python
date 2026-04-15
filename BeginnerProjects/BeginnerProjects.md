@@ -15,6 +15,7 @@ Projects
 - [x] FlappyBird
 - [x] Space Invaders
 - [x] Snake
+- [x] Mastermind
 - [ ] 
 
 Others:
