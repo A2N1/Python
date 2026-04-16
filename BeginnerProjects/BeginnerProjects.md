@@ -19,6 +19,7 @@ Projects
 - [x] SlidingPuzzle
 - [x] Mastermind
 - [x] MiniRPG
+- [x] Word Scamble
 - [ ] 
 
 Others:
