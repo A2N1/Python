@@ -21,6 +21,7 @@ Projects
 - [x] Word Scamble
 - [x] Number Guessing
 - [x] ClickerIdle
+- [x] BombDefusalGame
 - [ ] 
 
 Others:
