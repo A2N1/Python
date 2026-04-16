@@ -17,9 +17,9 @@ Projects
 - [x] Snake
 - [x] Mastermind
 - [x] SlidingPuzzle
-- [x] Mastermind
 - [x] MiniRPG
 - [x] Word Scamble
+- [x] Number Guessing
 - [ ] 
 
 Others:
