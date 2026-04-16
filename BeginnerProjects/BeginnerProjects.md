@@ -20,6 +20,7 @@ Projects
 - [x] MiniRPG
 - [x] Word Scamble
 - [x] Number Guessing
+- [x] ClickerIdle
 - [ ] 
 
 Others:
