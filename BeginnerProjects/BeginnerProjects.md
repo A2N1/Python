@@ -44,3 +44,4 @@ Automatic Excel Operations
 - was zuerst?
 - CIV Projekt?
 - Rocket League?
+- Schach?
