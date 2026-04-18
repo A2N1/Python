@@ -7,16 +7,16 @@ Projects
 - [x] Hangman
 - [x] Blackjack
 - [x] Minesweeper
-- [x] DungeonAdventure
-- [x] ASCIIRacing
-- [x] ZombieSurvival
+- [x] Dungeon Adventure
+- [x] ASCII Racing
+- [x] Zombie Survival
 - [x] Memory
 - [x] Breakout
-- [x] FlappyBird
+- [x] Flappy Bird
 - [x] Space Invaders
 - [x] Snake
 - [x] Mastermind
-- [x] SlidingPuzzle
+- [x] Sliding Puzzle
 - [x] MiniRPG
 - [x] Word Scamble
 - [x] Number Guessing
