@@ -20,8 +20,9 @@ Projects
 - [x] MiniRPG
 - [x] Word Scamble
 - [x] Number Guessing
-- [x] ClickerIdle
-- [x] BombDefusalGame
+- [x] Clicker / Idle
+- [x] Bomb Defusal
+- [x] Escape Room
 - [ ] 
 
 Others:
