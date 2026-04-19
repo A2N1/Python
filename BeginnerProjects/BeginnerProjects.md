@@ -24,6 +24,7 @@ Projects
 - [x] Bomb Defusal
 - [x] Escape Room
 - [x] Reaction Time
+- [x] Typing Speed
 - [ ] 
 
 Others:
