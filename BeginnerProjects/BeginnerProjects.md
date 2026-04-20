@@ -25,6 +25,7 @@ Projects
 - [x] Escape Room
 - [x] Reaction Time
 - [x] Typing Speed
+- [x] Dice
 - [ ] 
 
 Others:
