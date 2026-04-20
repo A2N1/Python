@@ -26,6 +26,7 @@ Projects
 - [x] Reaction Time
 - [x] Typing Speed
 - [x] Dice
+- [x] Guess the number
 - [ ] 
 
 Others:
