@@ -27,6 +27,7 @@ Projects
 - [x] Typing Speed
 - [x] Dice
 - [x] Guess the number
+- [x] Rhythm
 - [ ] 
 
 Others:
