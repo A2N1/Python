@@ -28,6 +28,7 @@ Projects
 - [x] Dice
 - [x] Guess the number
 - [x] Rhythm
+- [x] Survival
 - [ ] 
 
 Others:
