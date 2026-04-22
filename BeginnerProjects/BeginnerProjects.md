@@ -29,6 +29,7 @@ Projects
 - [x] Guess the number
 - [x] Rhythm
 - [x] Survival
+- [x] Artillery
 - [ ] 
 
 Others:
