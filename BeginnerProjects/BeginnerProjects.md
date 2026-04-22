@@ -30,6 +30,7 @@ Projects
 - [x] Rhythm
 - [x] Survival
 - [x] Artillery
+- [x] Higher Lower
 - [ ] 
 
 Others:
