@@ -31,6 +31,7 @@ Projects
 - [x] Survival
 - [x] Artillery
 - [x] Higher Lower
+- [x] Maze Escape (Labyrinth)
 - [ ] 
 
 Others:
