@@ -32,7 +32,8 @@ Projects
 - [x] Artillery
 - [x] Higher Lower
 - [x] Maze Escape (Labyrinth)
-- [x] Dodge The Bullets 
+- [x] Dodge The Bullets
+- [x] Bulls & Cows
 - [ ] 
 
 Others:
