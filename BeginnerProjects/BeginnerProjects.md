@@ -34,6 +34,7 @@ Projects
 - [x] Maze Escape (Labyrinth)
 - [x] Dodge The Bullets
 - [x] Bulls & Cows
+- [x] Stealth
 - [ ] 
 
 Others:
