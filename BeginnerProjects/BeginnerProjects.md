@@ -59,3 +59,4 @@ Automatic Excel Operations
 - Rocket League?
 - Schach?
   - GM
+- Lernsoftware Schulsachen, Hochschule, etc?
