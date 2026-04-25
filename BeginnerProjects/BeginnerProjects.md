@@ -60,3 +60,4 @@ Automatic Excel Operations
 - Schach?
   - GM
 - Lernsoftware Schulsachen, Hochschule, etc?
+- Plan mit Sport & Ernährung
