@@ -36,6 +36,7 @@ Projects
 - [x] Bulls & Cows
 - [x] Stealth
 - [x] Basketball
+- [x] Space Trading
 - [ ] 
 
 Others:
