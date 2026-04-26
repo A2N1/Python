@@ -61,3 +61,4 @@ Automatic Excel Operations
   - GM
 - Lernsoftware Schulsachen, Hochschule, etc?
 - Plan mit Sport & Ernährung
+- 
