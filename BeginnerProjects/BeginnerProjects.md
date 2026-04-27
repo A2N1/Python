@@ -37,6 +37,7 @@ Projects
 - [x] Stealth
 - [x] Basketball
 - [x] Space Trading
+- [x] Chain Reaction
 - [ ] 
 
 Others:
