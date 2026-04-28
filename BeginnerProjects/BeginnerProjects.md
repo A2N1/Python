@@ -40,6 +40,7 @@ Projects
 - [x] Chain Reaction
 - [x] City Builder
 - [x] Western Duel
+- [x] Battleship
 - [ ] 
 
 Others:
