@@ -39,6 +39,7 @@ Projects
 - [x] Space Trading
 - [x] Chain Reaction
 - [x] City Builder
+- [x] Western Duel
 - [ ] 
 
 Others:
