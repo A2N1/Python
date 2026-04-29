@@ -42,6 +42,7 @@ Projects
 - [x] Western Duel
 - [x] Battleship
 - [x] Break the Wall
+- [x] Memory Number
 - [ ] 
 
 Others:
