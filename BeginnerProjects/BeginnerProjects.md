@@ -41,6 +41,7 @@ Projects
 - [x] City Builder
 - [x] Western Duel
 - [x] Battleship
+- [x] Break the Wall
 - [ ] 
 
 Others:
