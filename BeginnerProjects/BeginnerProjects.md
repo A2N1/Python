@@ -44,6 +44,7 @@ Projects
 - [x] Break the Wall
 - [x] Memory Number
 - [x] Math Battle
+- [x] Tower Climb
 - [ ] 
 
 Others:
