@@ -64,7 +64,7 @@ Automatic Excel Operations
 - Stock Portfolio Tracker
 
 - welche nächsten Projekte?
-- was zuerst?
+- was zuerst? Prios setzen.
 - CIV Projekt?
 - Rocket League?
 - Schach?
