@@ -43,6 +43,7 @@ Projects
 - [x] Battleship
 - [x] Break the Wall
 - [x] Memory Number
+- [x] Math Battle
 - [ ] 
 
 Others:
