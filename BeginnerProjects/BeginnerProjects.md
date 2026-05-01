@@ -47,6 +47,10 @@ Projects
 - [x] Tower Climb
 - [ ] 
 
+Intermediate: 
+- [x] Website Blocker
+
+
 Others:
 Mad Libs Generator
 Text-Based Adventure Game
@@ -55,7 +59,6 @@ Contact Book
 Binary Search Algorithm
 YouTube Video Downloader
 Story Generator
-Python Website Blocker
 Login System
 Make a URL Shortener with Python
 Create a Simple Chatbot with Python
