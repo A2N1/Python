@@ -49,12 +49,13 @@ Projects
 
 Intermediate: 
 - [x] Website Blocker
+- [x] Dice Rolling Simulator
+
 
 
 Others:
 Mad Libs Generator
 Text-Based Adventure Game
-Dice Rolling Simulator
 Contact Book
 Binary Search Algorithm
 YouTube Video Downloader
