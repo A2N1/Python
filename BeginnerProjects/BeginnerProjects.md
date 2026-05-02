@@ -51,6 +51,7 @@ Intermediate:
 - [x] Website Blocker
 - [x] Dice Rolling Simulator
 - [ ] Contact Book
+- [ ] Story Generator
 
 
 
