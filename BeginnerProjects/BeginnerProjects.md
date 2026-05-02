@@ -52,16 +52,15 @@ Intermediate:
 - [x] Dice Rolling Simulator
 - [ ] Contact Book
 - [ ] Story Generator
+- [ ] 
 
 
 
 Others:
 Mad Libs Generator
 Text-Based Adventure Game
-Contact Book
 Binary Search Algorithm
 YouTube Video Downloader
-Story Generator
 Login System
 Make a URL Shortener with Python
 Create a Simple Chatbot with Python
