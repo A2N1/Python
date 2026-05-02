@@ -54,6 +54,8 @@ Intermediate:
 - [ ] Story Generator
 - [ ] Make a URL Shortener with Python
 
+Pro:
+
 
 
 Others:
@@ -62,7 +64,6 @@ Text-Based Adventure Game
 Binary Search Algorithm
 YouTube Video Downloader
 Login System
-Make a URL Shortener with Python
 Create a Simple Chatbot with Python
 Automatic Excel Operations
 - Blog (python and Django)
