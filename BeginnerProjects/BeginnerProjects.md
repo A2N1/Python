@@ -52,7 +52,7 @@ Intermediate:
 - [x] Dice Rolling Simulator
 - [ ] Contact Book
 - [ ] Story Generator
-- [ ] 
+- [ ] Make a URL Shortener with Python
 
 
 
