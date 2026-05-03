@@ -58,13 +58,13 @@ Intermediate:
 
 Pro:
 - [ ] Login System
+- [ ] Create a Simple Chatbot with Python
 
 
 Others:
 Mad Libs Generator
 Text-Based Adventure Game
 Binary Search Algorithm
-Create a Simple Chatbot with Python
 Automatic Excel Operations
 - Blog (python and Django)
 - Stock Portfolio Tracker
