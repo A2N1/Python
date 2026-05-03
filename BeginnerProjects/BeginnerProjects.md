@@ -53,6 +53,7 @@ Intermediate:
 - [ ] Contact Book
 - [ ] Story Generator
 - [ ] Make a URL Shortener with Python
+- [ ] YouTube Video Downloader
 
 Pro:
 
