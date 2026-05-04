@@ -63,7 +63,6 @@ Pro:
 
 
 Others:
-Mad Libs Generator
 Text-Based Adventure Game
 Binary Search Algorithm
 Automatic Excel Operations
