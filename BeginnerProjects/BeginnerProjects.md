@@ -65,7 +65,6 @@ Pro:
 
 
 Others:
-Text-Based Adventure Game
 Binary Search Algorithm
 Automatic Excel Operations
 - Blog (python and Django)
