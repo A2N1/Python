@@ -59,6 +59,7 @@ Intermediate:
 Pro:
 - [ ] Login System
 - [ ] Create a Simple Chatbot with Python
+- [ ] Mad Libs Generator
 
 
 Others:
