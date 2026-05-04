@@ -60,6 +60,8 @@ Pro:
 - [ ] Login System
 - [ ] Create a Simple Chatbot with Python
 - [ ] Mad Libs Generator
+- [ ] Text-Based Adventure Game
+
 
 
 Others:
