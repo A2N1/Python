@@ -69,7 +69,6 @@ Pro:
 Others:
 Automatic Excel Operations
 - Blog (python and Django)
-- Stock Portfolio Tracker
 
 - welche nächsten Projekte?
 - was zuerst? Prios setzen.
