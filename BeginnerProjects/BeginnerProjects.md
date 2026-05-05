@@ -66,7 +66,6 @@ Pro:
 
 
 Others:
-Binary Search Algorithm
 Automatic Excel Operations
 - Blog (python and Django)
 - Stock Portfolio Tracker
