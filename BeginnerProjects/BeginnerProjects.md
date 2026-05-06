@@ -63,6 +63,7 @@ Pro:
 - [ ] Text-Based Adventure Game
 - [ ] Binary Search Algorithm
 - [ ] Stock Portfolio Tracker
+- [ ] Automatic Excel Operations
 
 
 
