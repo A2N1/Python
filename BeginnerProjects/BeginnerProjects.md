@@ -70,7 +70,6 @@ Pro:
 
 Others:
 Automatic Excel Operations
-- Blog (python and Django)
 
 - welche nächsten Projekte?
 - was zuerst? Prios setzen.
