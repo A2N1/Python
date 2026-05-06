@@ -69,7 +69,6 @@ Pro:
 
 
 Others:
-Automatic Excel Operations
 
 - welche nächsten Projekte?
 - was zuerst? Prios setzen.
