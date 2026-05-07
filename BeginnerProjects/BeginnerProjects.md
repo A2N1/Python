@@ -68,7 +68,6 @@ Pro:
 
 Andere Ideen:
 - welche nächsten Projekte?
-- was zuerst? Prios setzen.
 - Gaming
   - CIV Projekt?
   - Rocket League?
