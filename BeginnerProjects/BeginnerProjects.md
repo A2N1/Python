@@ -75,4 +75,5 @@ Andere Ideen:
   - GM
 - Lernsoftware Schulsachen, Hochschule, etc?
 - Plan mit Sport & Ernährung
-- 
+
+- was zuerst? Prios setzen.
