@@ -69,8 +69,9 @@ Pro:
 Andere Ideen:
 - welche nächsten Projekte?
 - was zuerst? Prios setzen.
-- CIV Projekt?
-- Rocket League?
+- Gaming
+  - CIV Projekt?
+  - Rocket League?
 - Schach?
   - GM
 - Lernsoftware Schulsachen, Hochschule, etc?
