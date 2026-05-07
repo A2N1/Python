@@ -66,8 +66,7 @@ Pro:
 - [ ] Automatic Excel Operations
 - [ ] Blog (python and Django)
 
-
-
+Andere Ideen:
 - welche nächsten Projekte?
 - was zuerst? Prios setzen.
 - CIV Projekt?
