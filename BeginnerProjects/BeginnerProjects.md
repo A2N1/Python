@@ -66,6 +66,7 @@ Pro:
   - [ ] Stock Depot
 - [ ] Automatic Excel Operations
 - [ ] Blog (python and Django)
+- [ ] Study platform
 
 Andere Ideen:
 - welche nächsten Projekte?
