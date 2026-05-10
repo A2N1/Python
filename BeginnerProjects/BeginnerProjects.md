@@ -83,3 +83,5 @@ Excellisten mit Playlisten - Skript schreiben - veröffentlichen
 
 Andere Ideen? Überlegen
 was zuerst? Prios setzen
+
+Discord Python Bot
