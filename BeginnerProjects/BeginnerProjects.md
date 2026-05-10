@@ -78,9 +78,8 @@ Andere Ideen:
 - Lernsoftware Schulsachen, Hochschule, etc?
 - Plan mit Sport & Ernährung
 
-was zuerst? Prios setzen.
-
 Spotify:
 Excellisten mit Playlisten - Skript schreiben - veröffentlichen
 
 Andere Ideen? Überlegen
+was zuerst? Prios setzen
