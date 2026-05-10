@@ -85,3 +85,4 @@ Andere Ideen? Überlegen
 was zuerst? Prios setzen
 
 Discord Python Bot
+- wie Red bot?
