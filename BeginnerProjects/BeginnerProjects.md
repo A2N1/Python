@@ -76,6 +76,7 @@ Andere Ideen:
 - Schach?
   - GM
 - Lernsoftware Schulsachen, Hochschule, etc?
+  - Basic
 - Plan mit Sport & Ernährung
 
 Spotify:
@@ -86,3 +87,4 @@ was zuerst? Prios setzen
 
 Discord Python Bot
 - wie Red bot?
+
