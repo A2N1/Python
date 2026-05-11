@@ -78,6 +78,7 @@ Andere Ideen:
 - Lernsoftware Schulsachen, Hochschule, etc?
   - Basic
   - Intermediate
+  - training business management assistant
 - Plan mit Sport & Ernährung
 
 Spotify:
