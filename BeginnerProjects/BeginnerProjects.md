@@ -77,6 +77,7 @@ Andere Ideen:
   - GM
 - Lernsoftware Schulsachen, Hochschule, etc?
   - Basic
+  - Intermediate
 - Plan mit Sport & Ernährung
 
 Spotify:
