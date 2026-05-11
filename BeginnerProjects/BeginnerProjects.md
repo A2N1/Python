@@ -79,6 +79,7 @@ Andere Ideen:
   - Basic
   - Intermediate
   - training business management assistant
+  - business informatics bachelor's degree
 - Plan mit Sport & Ernährung
 
 Spotify:
