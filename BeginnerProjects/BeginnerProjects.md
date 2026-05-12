@@ -93,3 +93,4 @@ Discord Python Bot
 
 große Projekte überlegen
 bei Projekten helfen
+LinkedIn
