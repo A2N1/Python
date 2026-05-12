@@ -92,3 +92,4 @@ Discord Python Bot
 - wie Red bot?
 
 große Projekte überlegen
+bei Projekten helfen
