@@ -100,4 +100,4 @@ CV
 - deutsch
 - englisch
 - französisch
-- 
+- spanisch
