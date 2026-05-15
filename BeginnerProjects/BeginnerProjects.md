@@ -105,3 +105,4 @@ CV
 
 Sprachen
 - deutsch
+- Englisch
