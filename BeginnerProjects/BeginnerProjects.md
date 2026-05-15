@@ -106,3 +106,4 @@ CV
 Sprachen
 - deutsch
 - Englisch
+- Französisch
