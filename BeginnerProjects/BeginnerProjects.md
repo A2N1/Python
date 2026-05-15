@@ -104,3 +104,4 @@ CV
 - italienisch
 
 Sprachen
+- deutsch
