@@ -109,3 +109,4 @@ Sprachen
 - Französisch
 - italienisch
 - türkisch
+- arabisch
