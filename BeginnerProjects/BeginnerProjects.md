@@ -110,3 +110,4 @@ Sprachen
 - italienisch
 - türkisch
 - arabisch
+- spanisch
