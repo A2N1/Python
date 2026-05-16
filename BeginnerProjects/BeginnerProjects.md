@@ -107,3 +107,4 @@ Sprachen
 - deutsch
 - Englisch
 - Französisch
+- italienisch
