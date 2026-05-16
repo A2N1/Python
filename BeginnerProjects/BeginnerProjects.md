@@ -108,3 +108,4 @@ Sprachen
 - Englisch
 - Französisch
 - italienisch
+- türkisch
