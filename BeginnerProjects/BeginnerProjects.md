@@ -111,3 +111,4 @@ Sprachen
 - türkisch
 - arabisch
 - spanisch
+- mandarin
