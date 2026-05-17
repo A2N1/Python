@@ -114,3 +114,4 @@ Sprachen
 - mandarin
 - portugiesisch
 - niederländisch
+- norwegisch/schwedisch
