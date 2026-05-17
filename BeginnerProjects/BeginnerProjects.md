@@ -112,3 +112,4 @@ Sprachen
 - arabisch
 - spanisch
 - mandarin
+- portugiesisch
