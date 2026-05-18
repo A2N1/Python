@@ -117,3 +117,4 @@ Sprachen
 - norwegisch/schwedisch
 - hindi
 - griechisch
+- japanisch
