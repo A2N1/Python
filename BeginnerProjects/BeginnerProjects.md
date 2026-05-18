@@ -115,3 +115,4 @@ Sprachen
 - portugiesisch
 - niederländisch
 - norwegisch/schwedisch
+- hindi
