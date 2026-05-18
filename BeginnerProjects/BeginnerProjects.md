@@ -118,3 +118,4 @@ Sprachen
 - hindi
 - griechisch
 - japanisch
+- koreanisch
