@@ -116,3 +116,4 @@ Sprachen
 - niederländisch
 - norwegisch/schwedisch
 - hindi
+- griechisch
