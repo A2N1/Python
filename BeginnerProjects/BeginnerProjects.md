@@ -120,3 +120,5 @@ Sprachen
 - japanisch
 - koreanisch
 - indonesisch
+
+Anki benutzen
