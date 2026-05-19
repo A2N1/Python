@@ -127,4 +127,5 @@ Obsidian
 Anki
 
 Mögliche Projekte:
-Abo- & Finanz-Tracker
+Abo- & Finanz-Tracker - Eine simple App, in die du deine monatlichen Fixkosten (Netflix, Miete, Fitnessstudio) einträgst. Sie schickt dir 3 Tage vor einer Abbuchung eine Benachrichtigung (Mail/Push) und zeigt dir in schicken Grafiken, wohin dein Geld verschwindet. Lerneffekt: CRUD-Operationen (Create, Read, Update, Delete), Datenvisualisierung (z. B. Chart.js) und Cron-Jobs (für die Benachrichtigungen).
+Link-in-Bio - Was es macht: Eine ultraschnelle, selbst gehostete Website für deine Social-Media-Profile. Das Besondere: Baue ein kleines Admin-Dashboard dazu, mit dem du die Links per Drag-and-Drop verschieben und Klicks zählen kannst. Lerneffekt: Fullstack-Entwicklung (Frontend + Backend), Authentifizierung (Login-System) und Deployment.
