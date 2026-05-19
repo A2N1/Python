@@ -122,3 +122,6 @@ Sprachen
 - indonesisch
 
 Anki benutzen
+
+Obsidian
+Anki
