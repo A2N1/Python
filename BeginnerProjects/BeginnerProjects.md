@@ -125,3 +125,6 @@ Anki benutzen
 
 Obsidian
 Anki
+
+Mögliche Projekte:
+Abo- & Finanz-Tracker
