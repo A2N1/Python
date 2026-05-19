@@ -119,3 +119,4 @@ Sprachen
 - griechisch
 - japanisch
 - koreanisch
+- indonesisch
